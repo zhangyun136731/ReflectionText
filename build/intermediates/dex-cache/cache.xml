@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Mr_ZY/.android/build-cache/1fd8edaaf19fbdcd125b9d0c2278f13f4e2c433f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Mr_ZY/AndroidStudioProjects/ReflectionText/app/build/intermediates/pre-dexed/debug/classes_59a677a5981dc4398c02d2bea552182373bd4c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mr_ZY/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Mr_ZY/AndroidStudioProjects/ReflectionText/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_71118ff55441e149c5b81867a433d324081051b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mr_ZY/.android/build-cache/bdace152a562528ce3c84a4c79b14e68eaf5f01d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Mr_ZY/AndroidStudioProjects/ReflectionText/app/build/intermediates/pre-dexed/debug/classes_2c2155babcc6342a33508055dc700759f2d3a6dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mr_ZY/.android/build-cache/bdace152a562528ce3c84a4c79b14e68eaf5f01d/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Mr_ZY/AndroidStudioProjects/ReflectionText/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_4e4b7aae64b9424826e4dd572e7e7de1c0a4f75e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mr_ZY/.android/build-cache/2896b83a76fec6eec6056c7b8385971a18c51cd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Mr_ZY/AndroidStudioProjects/ReflectionText/app/build/intermediates/pre-dexed/debug/classes_9d5336e4d1a963aadad8363232e75ca325c7e629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mr_ZY/.android/build-cache/aa8ce5ed97fab03672e982683e6100c474babbaa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Mr_ZY/AndroidStudioProjects/ReflectionText/app/build/intermediates/pre-dexed/debug/classes_cd664bb8924c3cf2d93fa9cc9dfbcb3c0e03be57.jar" />
+    </item>
+
+</items>
